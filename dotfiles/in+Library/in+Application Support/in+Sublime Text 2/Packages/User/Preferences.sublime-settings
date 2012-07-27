@@ -1,0 +1,17 @@
+{
+	"codeintel_syntax_map":
+	{
+		"JavaScript": "Node.js"
+	},
+	"color_scheme": "Packages/colour-schemes/Espresso Soda.tmTheme",
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"font_face": "Menlo",
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"theme": "Soda Light.sublime-theme"
+}

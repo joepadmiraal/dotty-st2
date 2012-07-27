@@ -1,0 +1,8 @@
+[
+	{ "keys": ["super+k", "super+m"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete to Hard EOL.sublime-macro"} },
+	{ "keys": ["super+k", "super+k"], "command": "set_mark" },
+	{ "keys": ["super+k", "super+c"], "command": "clear_bookmarks", "args": {"name": "mark"} },
+	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"}},
+	{ "keys": [""], "command": "split_selection_into_lines" },
+	{ "keys": ["super+shift+l"], "command": "expand_selection", "args": {"to": "line"} }
+]

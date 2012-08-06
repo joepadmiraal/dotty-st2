@@ -40,6 +40,6 @@
         "loopfunc": true,
 
         // the names of predefined global variables:
-        "predef"     : ["log", "app", "config"]
+        "predef"     : ["log", "app", "config", "escape"]
     }
  }

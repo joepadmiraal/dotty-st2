@@ -18,7 +18,7 @@
         "indent"     : 2,     // set the expected indentation level
         "maxerr"     : 50,    // the maximum number of errors to allow
         "maxlen"     : 160,   // the maximum length of a source line
-        "newcap"     : false, // if constructor names capitalization is ignored
+        "newcap"     : true, // if constructor names capitalization is ignored
         "node"       : true,  // if Node.js globals should be predefined
         "nomen"      : false,  // This option disallows the use of dangling _ in variables. 
         "on"         : false, // if HTML event handlers should be allowed
@@ -40,6 +40,6 @@
         "loopfunc": true,
 
         // the names of predefined global variables:
-        "predef"     : ["log", "app", "config", "escape"]
+        "predef"     : ["log", "app", "config", "escape", "console", "require"]
     }
  }
